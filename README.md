@@ -4,4 +4,4 @@ Analyse du projet ReactiveX/RxJs par Eric Gagnon
 * [Source code](https://github.com/ReactiveX/rxjs)
 
 ## Rapport intermédiaire
- [PDF](https://github.com/egagnon77/h20-mgl-7460/edit/master/README.md)
+ [PDF](https://github.com/egagnon77/h20-mgl-7460/blob/master/rapports/rapport_intermediaire.pdf)
